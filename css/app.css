@@ -87,7 +87,7 @@ body {
 .input-box {
     display: flex;
     flex-flow: row wrap;
-    margin: 0 -1rem 1rem -1rem;
+    margin: 0 -1rem 1rem -1rem;    
 }
 
 .input-size {
@@ -95,6 +95,7 @@ body {
     height: 50px;
     margin: 12px;
     padding: 0 12px;
+    border-radius: 10px;
 }
 
 .btn-main {
